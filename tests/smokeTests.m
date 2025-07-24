@@ -1,4 +1,4 @@
-% Run these tests with runMyTests
+% Run these tests with runMyTests - test modifying a file...
 classdef smokeTests < matlab.unittest.TestCase
 
     methods(Test)
